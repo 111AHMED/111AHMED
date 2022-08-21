@@ -1,11 +1,11 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Akermi Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Akermi Ahmed</h1>
 <h3 align="center">Full-stack js developer && Data Analyst</h3>
 
-- ðŸ”­ Iâ€™m currently working Instructor at **Go My Code**
+- 🔭 I’m currently working Instructor at **Go My Code**
 
-- ðŸŒ± Iâ€™m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript**
 
-- ðŸ“« How to reach me **ahmadosak@gmail.com**
+- 📫 How to reach me **ahmadosak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
