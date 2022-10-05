@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akermi Ahmed</h1>
-<h3 align="center">Full-stack js developer && Data Analyst</h3>
+<h3 align="center">Full-stack js developer && Data Scientist</h3>
 
 - 🔭 I’m currently working Instructor at **Go My Code**
-
-- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **ahmadosak@gmail.com**
 
